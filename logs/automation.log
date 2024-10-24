@@ -1,0 +1,30 @@
+2024-10-24 10:17:04 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Opencartv121\master.xml"
+2024-10-24 10:20:37 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Opencartv121\master.xml"
+2024-10-24 10:22:57 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Opencartv121\master.xml"
+2024-10-24 10:22:58 INFO  TC001_AccountRegistrationTest:14 - *****Starting TC001_AccountRegistrationTest*****
+2024-10-24 10:23:46 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Opencartv121\master.xml"
+2024-10-24 10:25:30 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Opencartv121\crossbrowsertesting.xml"
+2024-10-24 10:26:45 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Opencartv121\crossbrowsertesting.xml"
+2024-10-24 10:26:46 INFO  TC001_AccountRegistrationTest:14 - *****Starting TC001_AccountRegistrationTest*****
+2024-10-24 10:26:46 INFO  TC001_AccountRegistrationTest:14 - *****Starting TC001_AccountRegistrationTest*****
+2024-10-24 10:27:54 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Opencartv121\crossbrowsertesting.xml"
+2024-10-24 10:27:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Opencartv121\crossbrowsertesting.xml
+
+2024-10-24 10:28:25 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Opencartv121\grouping.xml"
+2024-10-24 10:28:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Opencartv121\grouping.xml
+
+2024-10-24 10:28:47 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Opencartv121\master.xml"
+2024-10-24 10:28:47 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Opencartv121\master.xml
+
+2024-10-24 10:31:05 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Opencartv121\master.xml"
+2024-10-24 10:31:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Opencartv121\master.xml
+
+2024-10-24 10:31:31 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Opencartv121\crossbrowsertesting.xml"
+2024-10-24 10:32:44 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Opencartv121\master.xml"
+2024-10-24 10:53:39 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Opencartv121\master.xml"
+2024-10-24 11:09:52 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Opencartv121\master.xml"
+2024-10-24 11:11:00 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Opencartv121\master.xml"

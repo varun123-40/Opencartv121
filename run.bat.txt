@@ -1,0 +1,2 @@
+cd C:\Users\ADMIN\eclipse-workspace\Opencartv121
+mvn test
